@@ -9,12 +9,13 @@ These pages are copies from the main `kkedtech/ketl` repository:
 | `index.html` | `docs/in/index.html` | ketl.au/in |
 | `aia/index.html` | `docs/aia/index.html` | ketl.au/aia |
 | `aiy/index.html` | `docs/aiy/index.html` | ketl.au/aiy |
+| `gallery/index.html` + `uploads/gallery/` | `docs/gallery/index.html` + `docs/uploads/gallery/` | ketl.au/gallery |
 
 Changes made in the copies:
 
 - `assets/` and `uploads/` paths are relative to the root
-- links to Australian-only pages (Gallery, Terms) point to https://ketl.au
-- `/aia` and `/aiy` use the kangaroo + peacock logo and tab icon, the India
+- the Terms link points to https://ketl.au/tc (the only page not copied)
+- `/aia`, `/aiy` and `/gallery` use the kangaroo + peacock logo and tab icon, the India
   WhatsApp number (+91 74110 56004) and ketl.in addresses
 
 When any of those source pages changes in `kkedtech/ketl`, copy the change here
